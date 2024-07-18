@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlTaQNQ7gPQ7z2skaNDIeY5sg0Kagsr2LekI43UhaMaW5Xt0Gzr962qzmfl9EnBtzlo6ydlkgBLn2aTtWU8VGQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#calculator\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
+  "logs": []
+}
